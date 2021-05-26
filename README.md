@@ -1,4 +1,6 @@
 ## Hi there 👋
+<p>Welcome to my profile! I am an aspiring Internet and web developer. I currently hold an A.A.S In Graphic and Web Design from Community College of Aurora. 
+  I am currently working on my Bachelor of Applied Science in internet and web development from Arizona State University. If you can’t find me at school, you will likely see me working through Udemy courses and boot camps or finding new projects to work on. bellow you will see a list of tools I am familiar with</p>
 ### Tools and Technology
 <hr>
 <p float="left">
