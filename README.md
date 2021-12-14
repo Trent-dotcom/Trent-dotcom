@@ -1,15 +1,8 @@
 ## Hi there 👋
 <p>Welcome to my profile! I am an aspiring Internet and web developer. I currently hold an A.A.S In Graphic and Web Design from Community College of Aurora. 
-  I am currently working on my Bachelor of Applied Science in internet and web development from Arizona State University. If you can’t find me at school, you will likely see me working through Udemy courses and boot camps or finding new projects to work on. bellow you will see a list of tools I am familiar with</p>
-<h2>Tools and Technology</h2>
-<hr>
-<p float="left">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' width=15%>
-<img src='https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png' width=15%>
-<img src='https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png' width=15%>
-<img src='https://miro.medium.com/max/8334/1*Ta4qktHtO--RMUpnR08mBg.jpeg' width=15%>
-<img src='https://niralar.com/wp-content/uploads/2018/07/mongoose.jpg' width=15%>
-  </p>
+  I am currently working on my Bachelor of Applied Science in internet and web development from Arizona State University. If you can’t find me at school, you will likely see me working through Udemy courses and boot camps or finding new projects to work on.</p>
+
+
 <!--
 **Trent-dotcom/Trent-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
